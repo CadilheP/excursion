@@ -31,3 +31,8 @@ p {
     color: grey;
     text-align: center;
 }
+
+div {
+    font-family: verdana;
+    color: white;
+}
